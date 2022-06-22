@@ -4,7 +4,7 @@ from setuptools import setup
 REQUIRED_PACKAGES = ['Keras==2.2.5',
                      'h5py==2.7.0',
                      'sklearn',
-                     'numpy==1.16.2',
+                     'numpy==1.22.0',
                      'tensorflow',
                      'google-cloud-storage==1.14.0',
                      'gcsfs==0.2.1',
